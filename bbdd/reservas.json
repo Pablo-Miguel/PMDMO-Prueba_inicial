@@ -1,0 +1,49 @@
+[{
+    "id": "c1",
+    "hotel": "Villa Marina",
+    "planta": 34,
+    "habitacion": 45,
+    "sabanasytoallas": true
+},
+{
+    "id": "c2",
+    "hotel": "Mounte",
+    "planta": 23,
+    "habitacion": 12,
+    "sabanasytoallas": true
+},
+{
+    "id": "c3",
+    "hotel": "El pino",
+    "planta": 4,
+    "habitacion": 3,
+    "sabanasytoallas": false
+},
+{
+    "id": "c4",
+    "hotel": "Roquetas de mar",
+    "planta": 15,
+    "habitacion": 9,
+    "sabanasytoallas": true
+},
+{
+    "id": "c5",
+    "hotel": "Buen viaje",
+    "planta": 6,
+    "habitacion": 66,
+    "sabanasytoallas": false
+},
+{
+    "id": "c6",
+    "hotel": "Hotel encantado",
+    "planta": 13,
+    "habitacion": 666,
+    "sabanasytoallas": false
+},
+{
+    "id": "c7",
+    "hotel": "Hotel marinador",
+    "planta": 1,
+    "habitacion": 45,
+    "sabanasytoallas": true
+}]
